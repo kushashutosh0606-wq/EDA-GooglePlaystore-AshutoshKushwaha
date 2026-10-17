@@ -134,23 +134,23 @@ See the dataset loader here:
 <h2 style="color:#4285F4; margin-top: 0;">👩‍💻 Author</h2>
 
 <p style="color:#333; font-size: 1.05em; margin-bottom: 14px;">
-<strong>Rashmi Sharma</strong><br>
+<strong>Ashutosh Kushwaha</strong><br>
 Data Analyst • Data Science • Python • ML
 </p>
 
 <div style="margin-top:10px;">
 
-  <a href="https://www.linkedin.com/in/rashmi-sharma-745201395/" target="_blank" title="Rashmi Sharma - LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-Rashmi%20Sharma-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" 
+  <a href="https://www.linkedin.com/in/ashutosh-kushwaha-7906990592/" target="_blank" title="Rashmi Sharma - LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-kushashutosh0606-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" 
          alt="LinkedIn Badge" style="margin: 4px;">
   </a>
 
   <a href="https://medium.com/@rashmisharma6172610" target="_blank" title="Read My Medium Articles">
-    <img src="https://img.shields.io/badge/Medium-@rashmisharma6172610-000000?logo=medium&logoColor=white&style=for-the-badge" 
+    <img src="https://img.shields.io/badge/Medium-@kushashutosh0606-000000?logo=medium&logoColor=white&style=for-the-badge" 
          alt="Medium Badge" style="margin: 4px;">
   </a>
 
-  <a href="mailto:rashmisharma6172610@gmail.com" title="Email Me">
+  <a href="mailto:kushashutosh0606@gmail.com" title="Email Me">
     <img src="https://img.shields.io/badge/Gmail-Contact-D14836?logo=gmail&logoColor=white&style=for-the-badge" 
          alt="Gmail Badge" style="margin: 4px;">
   </a>
@@ -158,7 +158,7 @@ Data Analyst • Data Science • Python • ML
 </div>
 
 <p style="margin-top:18px; font-size:13px; color:#666;">
-© 2025 Rashmi Sharma • Data Science & Machine Learning
+© 2026 Ashutosh Kushwaha • Data Science & Machine Learning
 </p>
 
 </div>
